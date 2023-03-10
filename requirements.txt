@@ -1,4 +1,4 @@
-diffusers==0.3.0
+diffusers==0.6.0
 transformers
 ftfy
 opencv-python
